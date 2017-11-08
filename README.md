@@ -29,3 +29,4 @@ $ ionic cordova run ios
 Substitute ios for android if not on a Mac.
 
 (this is david making a small change)
+(this is Niall making a small change)
